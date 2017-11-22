@@ -5,7 +5,7 @@ This repository provides Matlab codes to recover accelerated phase contrast MRI 
 To regularize the ill-posed inverse problem, we present a novel inversion algorithm that applies regularization based on structure unique to phase contrast MRI data. Adopting an empirical Bayes approach, spatial and temporal redundancies are exploited via sparsity in the wavelet domain, and the voxel-wise magnitudeand phase structure across encodings is captured in a conditional mixture prior that applies regularizing constraints based on the presence of flow.  From the Bayesian model, a factor graph is developed and an iterative inversion algorithm is derived using message passing computation.  The loopy portions of the graph are greatly accelerated using generalized approximate message passing <a href = "http://ieeexplore.ieee.org/document/6033942/">(GAMP)</a>.  The technique has been validated using prospectively accelerated mecanical flow phantom and in vivo data.
 
 <h4> Installation  </h4>
-To install the codes, simply download the ReVEAL repository and add the folder and its subfolders to the Matlab path.     
+To install the codes, simply download the ReVEAL repository and add the folder and its subfolders to the Matlab path.  To run the example scripts, you will need to download the datasets provided below.  Make sure the datasets are included in the Matlab path as well.      
 
 <h4> Data Sets </h4>
 <p>

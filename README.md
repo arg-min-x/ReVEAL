@@ -24,4 +24,4 @@ To install the codes, simply download the ReVEAL repository and add the folder a
 <p>
 To generate additional VISTA sampling patterns, download the <a href="https://github.com/OSU-CMR/VISTA">VISTA</a> repository.<br/>
 This repository also uses the GAMPLAB software package available at <a href="http://sourceforge.net/projects/gampmatlab/files/">GAMPLAB</a>.
-<\p>
+</p>

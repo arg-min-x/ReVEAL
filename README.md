@@ -23,6 +23,7 @@ To install the codes, simply download the ReVEAL repository and add the folder a
 1) <a href = "https://www.ncbi.nlm.nih.gov/pubmed/26444911">A Bayesian model for highly accelerated phase-contrast MRI</a><br/>
 2) <a href = "">A Bayesian Approach for 4D Flow Imaging of Aortic Valve in a Single Breath-hold</a><br/>
 3) <a href = "https://www.ncbi.nlm.nih.gov/pubmed/28270219">Quantification of aortic stenosis diagnostic parameters: comparison of fast 3 direction and 1 direction phase contrast CMR and transthoracic echocardiography</a>
+4) <a href = "https://www.ncbi.nlm.nih.gov/pubmed/29334131">A bayesian method for accelerated magnetic resonance elastography of the liver</a><br/>
 </p>
 
 <h4> Related Software </h4>
